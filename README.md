@@ -2,7 +2,7 @@
 Date : 109 / 09 / 11
 
 # Motivation & Purpose
-Side Project for Baseball Ecosystem
+Side Project - Baseball Ecosystem
 
 1. Timeline Wall
 2. Like & Comment
