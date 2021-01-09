@@ -1,5 +1,5 @@
 # AlwaysBaseball
-Date : 109 / 09 / 11
+Date : 2020 / 09 / 11
 
 # Motivation & Purpose
 Side Project - Baseball Ecosystem
